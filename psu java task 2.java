@@ -22,3 +22,11 @@ public class Main {
         sc.close();
     }
 }
+
+
+/*
+OUTPUT:
+Array: [10, 20, 30, 40, 50]
+Target Index: 2
+Element at index 2 is: 30
+*/
